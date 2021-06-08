@@ -1,0 +1,65 @@
+body{
+  text-align:center;
+  background-color:pink;
+}
+  .menu {
+    position: fixed;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+img{
+   border-radius: 50%;
+  width:200px;
+}
+.links{
+ 
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px
+}
+.links:hover{
+  text-decoration:underline;
+  background-color:#BA68C8;
+
+}
+h3{
+  font-family: 'Cedarville Cursive', cursive;
+}
+section{
+  background-color:#F06292;
+}
+html{
+  scroll-behavior:smooth;
+}
+#writings a
+{
+text-shadow: none !important;
+text-decoration: underline !important;
+color: blue !important;
+}
+
+#contact
+{
+background: firebrick;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    color: white;
+    text-shadow: none;
+}
+
+
